@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me: drop me a text or something
+- 📫 How to reach me - drop me a text or something
 
 <!---
 General379/General379 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
