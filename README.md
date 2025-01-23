@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @General379
+- 👋 Hi, I’m @boonleongtan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on coding projects
