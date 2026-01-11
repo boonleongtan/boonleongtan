@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @boonleongtan, a NUS Computer Engineering Freshman looking to gain experience working with code in the real world.
-- 👀 I’m interested in Python, C++, JavaScript, Java and many more!
-- 🌱 I’m currently learning React.js, Node.js, CI/CD, DevSecOps, etc.
-- 💞️ I’m looking for an internship where possible.
+- 👋 Hi, I’m @boonleongtan, NUS Computer Engineering Y1 looking to gain experience working with code and embedded systems in the real world.
+- 👀 I’m interested in software and hardware integration, including IoT projects involving esp32 and stm32!
+- 🌱 I’m currently learning about data structures and algorithms in C++.
+- 💞️ I’m looking for any form of internship involving software and hardware integration.
 - 📫 Contact me at tanboonleong@u.nus.edu!
 
 <!---
