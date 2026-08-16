@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m @boonleongtan, NUS Computer Engineering Y1 looking to gain experience working with code and embedded systems in the real world.
-- 👀 I’m interested in software and hardware integration, including IoT projects involving esp32 and stm32!
-- 🌱 I’m currently learning about data structures and algorithms in C++.
-- 💞️ I’m looking for any form of internship involving software and hardware integration.
-- 📫 Contact me at tanboonleong@u.nus.edu!
+- 👋 Hi, I’m @boonleongtan, NUS Computer Engineering Y2 looking to gain experience working with code and embedded systems in the real world.
+- 👀 I’m interested in software and hardware integration, including IoT projects involving esp32 and stm32.
+- 🌱 I’m currently learning Verilog and RTOS. I have learnt DSA(C++), ML(Python), Mobile app dev, etc.
+- 💞️ I’m looking for internships involving both software and hardware.
+- 📫 Contact me at [tanboonleong@u.nus.edu](mailto:tanboonleong@u.nus.edu) :)
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
